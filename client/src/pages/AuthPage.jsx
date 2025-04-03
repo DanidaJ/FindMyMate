@@ -14,7 +14,7 @@ const AuthPage = () => {
         >
             <div className='w-full max-w-md'>
                 <h2 className='text-center text-3xl font-extrabold text-white mb-8'>
-                    {isLogin ? "Sign in to Swipe" : "Create a Swipe account"}
+                    {isLogin ? "Sign in to Find My Mate" : "Create a Swipe account"}
                 </h2>
 
                 <div className='bg-white shadow-xl rounded-lg p-8'>
